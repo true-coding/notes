@@ -1,0 +1,12 @@
+export const APP_LOAD = 'APP_LOAD';
+
+export const NOTE_UPDATE = 'NOTE_UPDATE';
+export const NOTE_CREATE = 'NOTE_CREATE';
+export const NOTES_FETCH_SUCCESS = 'NOTES_FETCH_SUCCESS';
+export const NOTE_SAVE_SUCCESS = 'NOTE_SAVE_SUCCESS';
+
+export const EMAIL_CHANGED = 'EMAIL_CHANGED';
+export const PASSWORD_CHANGED = 'PASSWORD_CHANGED';
+export const LOGIN_USER_SUCCESS = 'LOGIN_USER_SUCCESS';
+export const LOGIN_USER_FAIL = 'LOGIN_USER_FAIL';
+export const LOGIN_USER = 'LOGIN_USER';
